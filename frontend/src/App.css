@@ -1,0 +1,29 @@
+
+.container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ebedf0;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.select {
+  width: 150px;
+}
+
+.mr {
+  margin-right: 10px;
+}
+
+.ml {
+  margin-left: 20px;
+}
+
+.table {
+  margin-top: 20px;
+}
